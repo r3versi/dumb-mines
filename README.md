@@ -1,4 +1,4 @@
-# dumb mines
+# Dumb Mines
 ### The most exciting minesweeper version on your terminal
 
 This repository contains a version of the game *the minesweeper*.<br/>
